@@ -1,5 +1,4 @@
 from Tests.AreaTemplaterTest import AreaTemplaterTest
 
-test = AreaTemplaterTest('Tests/Results');
-test.test();
-
+test = AreaTemplaterTest('Tests/Results')
+test.test()
